@@ -1,0 +1,41 @@
+[33mcommit 8b03929987b172140d41c975519afec8250b8964[m[33m ([m[1;36mHEAD -> [m[1;32mkk--favorite-tracks[m[33m, [m[1;31morigin/kk--favorite-tracks[m[33m)[m
+Author: Blizzcane <blizzcane@gmail.com>
+Date:   Thu Feb 18 20:20:55 2021 -0600
+
+    Added songs to tracks.txt
+
+[33mcommit e2ee0868f1073f6a433bb8b86d8d38c8bdc763cf[m[33m ([m[1;32mmain[m[33m)[m
+Author: Blizzcane <Blizzcane@gmail.com>
+Date:   Tue Feb 16 22:29:46 2021 -0600
+
+    Update readme.md
+
+[33mcommit a79301c72cbf9009af6734b41c929cb83bcb3a9a[m
+Author: Blizzcane <blizzcane@gmail.com>
+Date:   Tue Feb 16 22:28:30 2021 -0600
+
+    created a readme file
+
+[33mcommit 939dff046195a625ae5df7a469b6404da806be95[m
+Author: Blizzcane <blizzcane@gmail.com>
+Date:   Tue Feb 16 22:14:29 2021 -0600
+
+    adding another tream
+
+[33mcommit 2b02ef40e3eaeeb42d1d4276d728d97a2bc75659[m
+Author: Blizzcane <blizzcane@gmail.com>
+Date:   Tue Feb 16 22:12:30 2021 -0600
+
+    add new team: Torvalds Tornados
+
+[33mcommit 516abb5a460c9124d0029ebae8957ba8447d7b51[m
+Author: Blizzcane <blizzcane@gmail.com>
+Date:   Tue Feb 16 22:10:37 2021 -0600
+
+    Added text to teams.txt
+
+[33mcommit dfe34cf5982d581e59d56fcf13c12bb03e999589[m
+Author: Blizzcane <blizzcane@gmail.com>
+Date:   Tue Feb 16 21:55:29 2021 -0600
+
+    Adding the teams.txt file
